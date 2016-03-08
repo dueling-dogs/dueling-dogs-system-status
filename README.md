@@ -1,1 +1,1 @@
-Visit this site at https://dueling-dogs.github.io/dueling-dogs-system-status/
+Visit this site at https://duelingdogs.github.io/dueling-dogs-system-status/
